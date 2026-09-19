@@ -2,7 +2,7 @@
 
 A modern, fully-featured e-commerce store built with **vanilla HTML, CSS, and JavaScript** — no frameworks, no build step, no dependencies.
 
-**🔗 Live demo:** https://YOUR_USERNAME.github.io/shopease/
+**🔗 Live demo:** https://emeka-ojomah.github.io/shopease/
 
 ## ✨ Features
 
